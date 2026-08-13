@@ -1,13 +1,12 @@
 
 
 
-
 export interface Project {
   id: string;
   title: string;
   slug: string;
   description: string;
-  longDescription: string;
+  longDescription?: string;      // ✅ Optional
   category: string;
   tags: string[];
   techStack: string[];
@@ -18,9 +17,11 @@ export interface Project {
     label: string;
     value: string;
   }[];
-  features: string[];
-  whatILearned: string[];
+  features?: string[];             // ✅ Optional
+  whatILearned?: string[];        // ✅ Optional
 }
+
+
 
 export interface BlogPost {
   slug: string;
