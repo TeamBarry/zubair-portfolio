@@ -9,8 +9,8 @@ export const projects: Project[] = [
     category: "EdTech",
     tags: ["SaaS", "EdTech", "Subscription"],
     techStack: ["React", "Node.js", "Firebase", "Stripe"],
-    liveUrl: "https://easyexamsolution.com",
-    githubUrl: "https://github.com/zubair-zafar/easyexamsolution",
+    liveUrl: "https://easyexamsolution.online",
+    githubUrl: "https://github.com/TeamBarry",
     image: "/images/easyexam.jpg",
     metrics: [
       { label: "Users", value: "1,800+" },
@@ -27,7 +27,7 @@ export const projects: Project[] = [
     tags: ["Fintech", "Real-time", "WebSocket"],
     techStack: ["React 18", "TypeScript", "Redux Toolkit", "Node.js", "WebSocket"],
     liveUrl: "https://live-crypto-dashboard-alpha.vercel.app/",
-    githubUrl: "https://github.com/zubair-zafar/live-crypto-dashboard",
+    githubUrl: "https://github.com/TeamBarry/Live-Crypto-DashBoard",
     image: "/images/crypto.jpg",
     metrics: [
       { label: "Coins Tracked", value: "500+" },
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     tags: ["AI", "Design", "Global"],
     techStack: ["Next.js", "TypeScript", "OpenAI API", "Supabase"],
     liveUrl: "https://craftaiworld.com",
-    githubUrl: "https://github.com/zubair-zafar/craftaiworld",
+    githubUrl: "https://github.com/TeamBarry",
     image: "/images/craftai.jpg",
     metrics: [
       { label: "Countries", value: "124+" },
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     tags: ["SaaS", "Project Management", "Real-time"],
     techStack: ["Next.js 15", "TypeScript", "Socket.io", "Supabase", "Zustand"],
     liveUrl: "https://taskflow-pro.vercel.app",
-    githubUrl: "https://github.com/zubair-zafar/taskflow-pro",
+    githubUrl: "https://github.com/TeamBarry",
     image: "/images/taskflow.jpg",
     metrics: [
       { label: "Beta Users", value: "200+" },
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     tags: ["Healthcare", "Telemedicine", "Pakistan"],
     techStack: ["Next.js 15", "TypeScript", "Supabase", "Twilio", "Daily.co"],
     liveUrl: "https://mediconnect-pk.vercel.app",
-    githubUrl: "https://github.com/zubair-zafar/mediconnect",
+    githubUrl: "https://github.com/TeamBarry",
     image: "/images/mediconnect.jpg",
     metrics: [
       { label: "Monthly Appts", value: "1,500+" },
@@ -114,7 +114,7 @@ export const projects: Project[] = [
     tags: ["Next.js", "SSR", "SSG", "SEO"],
     techStack: ["Next.js", "SSR", "SSG", "REST APIs"],
     liveUrl: "https://pakwaqt.teambarry.blog",
-    githubUrl: "https://github.com/zubair-zafar/pakwaqt",
+    githubUrl: "https://github.com/TeamBarry",
     image: "/images/pakwaqt.jpg",
     metrics: [
       { label: "Rendering", value: "SSR + SSG" },
@@ -131,9 +131,9 @@ export const projects: Project[] = [
     category: "E-Commerce",
     tags: ["E-Commerce", "Virtual Try-On", "Full-Stack"],
     techStack: ["React", "Node.js", "MongoDB"],
-    liveUrl: "",
+    liveUrl: "https://teambarry.github.io/vite-react-deploy/",
     githubUrl:
-      "https://github.com/zubair-zafar/shopping-virtual-try-on",
+      "https://github.com/TeamBarry/vite-react-deploy",
     image: "/images/shopping.jpg",
     metrics: [
       { label: "Platform", value: "E-Commerce" },
